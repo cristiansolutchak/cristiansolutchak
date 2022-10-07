@@ -1,10 +1,10 @@
-## Olá! Sou o Cristian Solutchak
+## 🇧🇷 Olá! Sou o Cristian Solutchak.
 
-- 🔭 Atualmente sou estudandante do TEC Integrado ao ensino medio, no IFC Campus Concórdia cursando Técnico em Informática para internet de (2021 à 2023).
-- 🌱 Estudando HTML, CSS, JS, NODE, EXPRESS, PYTHON e BANCO DE DADOS MySql.
+- 😀 Atualmente sou estudandante do TEC Integrado ao ensino medio, no IFC Campus Concórdia cursando Técnico em Informática para internet de (2021 à 2023).
+- 🤓 Estudando HTML, CSS, JS, NODE, EXPRESS, PYTHON e BANCO DE DADOS MySql.
 - 💬 Contate-me no email: cristiansolutchak@gmail.com
-
-<div align="center">
+<div a
+lign="center">
   <a href="https://github.com/cristiansolutchak">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cristiansolutchak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiansolutchak&layout=compact&langs_count=7&theme=dracula"/>
