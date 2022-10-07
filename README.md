@@ -1,6 +1,6 @@
-## 🇧🇷 Olá! Sou o Cristian Solutchak.
+## 🇧🇷 Olá! Sou Cristian Solutchak.
 
-- 😀 AAtualmente sou estudante do TÉC Integrado ao ensino médio, no IFC Campus Concórdia cursando Técnico em Informática para internet de (2021 a 2023).
+- 😀 Atualmente sou estudante do TÉC Integrado ao ensino médio, no IFC Campus Concórdia cursando Técnico em Informática para internet de (2021 a 2023).
 - 🤓 Estudando HTML, CSS, JS, NODE, EXPRESS, PYTHON e BANCO DE DADOS MySql.
 - 💬 Contate-me no email: cristiansolutchak@gmail.com
 <div a
