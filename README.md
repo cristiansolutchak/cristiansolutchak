@@ -8,7 +8,6 @@ Sou um desenvolvedor entusiasmado, estudante do Ensino Médio integrado ao curso
 - CSS
 - JavaScript
 - Node.js
-- Vue.js
 - Python
 - Dart
 - Flutter
@@ -23,7 +22,7 @@ Sou um desenvolvedor entusiasmado, estudante do Ensino Médio integrado ao curso
 
 
 ## Experiência e Educação
-Ao longo do meu curso, tenho adquirido conhecimentos sólidos em diversas áreas, incluindo desenvolvimento front-end e back-end. Estou constantemente aprimorando minhas habilidades em HTML, CSS e JavaScript para criar interfaces de usuário intuitivas e atraentes utilizando conceitos UI/UX. Além disso, estou estudando Javascrip, Node e Docker para construir soluções robustas e escaláveis.
+Ao longo do meu curso, adquiri conhecimentos sólidos em diversas áreas, incluindo desenvolvimento front-end, back-end e mobile. Estou constantemente aprimorando minhas habilidades em HTML, CSS e JavaScript para o ambiente web, e Dart e Flutter para dispositivos móveis. Dessa forma, consigo criar interfaces de usuário intuitivas e atraentes, incorporando conceitos de UI/UX. Além disso, estou estudando JavaScript, Node.js e Docker para construir soluções robustas e escaláveis.
 
 Acredito que um bom desenvolvedor deve ter uma base sólida em banco de dados, por isso, estou aprofundando meus conhecimentos em MySQL, buscando entender e utilizar as melhores práticas para armazenar e manipular dados de forma eficiente.
 
@@ -34,7 +33,7 @@ Tenho uma paixão pela escrita de código limpo e organizado, seguindo os princ�
 ## Contato
 Se você está em busca de um desenvolvedor dedicado, que busca constantemente a excelência e tem paixão por tecnologia, ficarei feliz em colaborar em projetos desafiadores e contribuir para o sucesso da sua equipe.
 
-Sinta-se à vontade para entrar em contato comigo por meio do meu email (cristiansolutchak@gmail.com) para discutirmos oportunidades de colaboração ou para qualquer dúvida. Estou animado para fazer parte do mundo da programação e criar soluções web inovadoras juntos!
+Sinta-se à vontade para entrar em contato comigo por meio do meu email (cristiansolutchak@gmail.com) para discutirmos oportunidades de colaboração ou para qualquer dúvida. Estou animado para fazer parte do mundo da programação e criar soluções web/mobile inovadoras juntos!
 
 ##
 
