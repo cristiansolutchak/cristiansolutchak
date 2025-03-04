@@ -18,5 +18,6 @@ I am a developer passionate about technology and innovation, specializing in mob
 
 If you’re looking for a developer passionate about innovation and the Bitcoin universe, let’s talk!
 
-📧 Email: [cristiansolutchak@gmail.com]  
-💼 LinkedIn: [https://linkedin.com/in/cristian-solutchak]
+📧 Email: cristiansolutchak@gmail.com  
+💼 LinkedIn: [linkedin.com/in/cristian-solutchak](https://linkedin.com/in/cristian-solutchak)  
+
